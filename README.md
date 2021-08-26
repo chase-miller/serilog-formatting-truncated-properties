@@ -1,2 +1,2 @@
 # serilog-formatting-truncated-properties
-Truncates properties that exceed a provided length limit
+Wraps any ITextFormatter, truncating all properties that exceed a provided length limit
